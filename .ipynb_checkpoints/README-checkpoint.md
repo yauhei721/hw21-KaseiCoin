@@ -22,4 +22,21 @@ Finally, I created a KaseiCoin deployer contract in the provided KaseiCoinCrowds
 
 2. Then we depoly first the KaseiCoinDepolyer contract in the injected web3 environment by inputting the token name, symbol, and one of the imported address from Metamask.
 
-![KaseiCoinCSDCompilation](./Evaluation_Evidence/DepolyContract.jpg)
+![Depolyment1](./Evaluation_Evidence/DepolyContract.jpg)
+
+3. Navigate to the Deployed Contracts section, and then open the box that’s associated with the KaseiCoinCrowdsaleDeployer contract. Notice that buttons for kasei_crowdsale_address and kasei_token_address now appear.
+
+
+We link the contracts that’s associated with kasei_crowdsale_address and kasei_token_address to the KaseiCoinCrowdsale contract by completing the following steps:
+
+i. Copy the address that’s associated with kasei_crowdsale_address.
+
+ii. Scroll up to the Contract box, and then select the compiled KaseiCoinCrowdsale.
+
+iii. Copy the address into the At Address box.
+
+iv. Click the At Address button.
+
+Repeat Steps i–iv with kasei_token_address. These steps are demonstrated by the following video
+
+![Depolyment2](./Evaluation_Evidence/InitTokensANDCrowdsaleContract.mp4)
