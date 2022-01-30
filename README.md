@@ -39,6 +39,6 @@ iv. Click the At Address button.
 
 Repeat Steps i–iv with kasei_token_address. These steps are demonstrated by the following video
 
-![Depolyment2](./Evaluation_Evidence#/InitTokensANDCrowdsaleContract 1.gif)
+![Depolyment2](./Evaluation_Evidence/InitTokensANDCrowdsaleContract1.gif)
 
-![Depolyment2](./Evaluation_Evidence#/InitTokensANDCrowdsaleContract 2.gif)
+![Depolyment2](./Evaluation_Evidence/InitTokensANDCrowdsaleContract 2.gif)
