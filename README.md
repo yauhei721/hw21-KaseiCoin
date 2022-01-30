@@ -41,4 +41,25 @@ Repeat Steps i–iv with kasei_token_address. These steps are demonstrated by th
 
 ![Depolyment2](./Evaluation_Evidence/InitTokensANDCrowdsaleContract1.gif)
 
-![Depolyment2](./Evaluation_Evidence/InitTokensANDCrowdsaleContract 2.gif)
+![Depolyment2](./Evaluation_Evidence/InitTokensANDCrowdsaleContract2.gif)
+
+Purchase KaseiCoin from the crowdsale by completing the following steps:
+
+Select a new account from MetaMask. Notice the new account address in the Account box in the Remix IDE. Copy this account address to the clipboard.
+
+In the Value box, we enter 10 ether to determine the number of tokens for this account to purchase.
+
+Navigate to the deployed KaseiCOinCrowdsale contract, paste the address into the buyTokens box, and then click the buyTokens button.
+
+
+When the MetaMask dialog box opens, click Confirm.
+
+
+Confirm that the number of purchased tokens is correctly reflected in Remix by clicking the totalSupply button.
+
+![FirstTransaction1](./Evaluation_Evidence/FirstTransaction1.jpg)
+
+![FirstTransaction2](./Evaluation_Evidence/FirstTransaction2.jpg)
+
+
+Repeat the purchase process by using a third MetaMask address. Confirm that the total supply of tokens is correctly reflected in Remix by clicking the totalSupply button.
