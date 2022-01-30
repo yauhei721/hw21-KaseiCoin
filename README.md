@@ -49,7 +49,7 @@ Select a new account from MetaMask. Notice the new account address in the Accoun
 
 In the Value box, we enter 10 ether to determine the number of tokens for this account to purchase.
 
-Navigate to the deployed KaseiCOinCrowdsale contract, paste the address into the buyTokens box, and then click the buyTokens button.
+Navigate to the deployed KaseiCoinCrowdsale contract, paste the address into the buyTokens box, and then click the buyTokens button.
 
 
 When the MetaMask dialog box opens, click Confirm.
