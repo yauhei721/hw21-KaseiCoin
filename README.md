@@ -41,7 +41,7 @@ Repeat Steps i–iv with kasei_token_address. These steps are demonstrated by th
 
 ![Depolyment2](./Evaluation_Evidence/InitTokensANDCrowdsaleContract1.gif)
 
-![Depolyment2](./Evaluation_Evidence/InitTokensANDCrowdsaleContract2.gif)
+![Depolyment2](./Evaluation_Evidence/InitTokensANDCrowdsaleContract 2.gif)
 
 Purchase KaseiCoin from the crowdsale by completing the following steps:
 
@@ -62,4 +62,8 @@ Confirm that the number of purchased tokens is correctly reflected in Remix by c
 ![FirstTransaction2](./Evaluation_Evidence/FirstTransaction2.jpg)
 
 
-Repeat the purchase process by using a third MetaMask address. Confirm that the total supply of tokens is correctly reflected in Remix by clicking the totalSupply button.
+Repeat the purchase process by using a third MetaMask address and buy 5 ether of tokens. It is confirmed that the total supply of tokens is correctly reflected in Remix by clicking the totalSupply button.
+
+![SecondTransaction1](./Evaluation_Evidence/SecondTransaction1.jpg)
+
+![SecondTransaction2](./Evaluation_Evidence/SecondTransaction2.jpg)
