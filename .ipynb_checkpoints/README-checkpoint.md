@@ -8,4 +8,4 @@ And the coding of the Kasei Coin Crowdsale contract and the deployment contract 
 
 ![KaseiCoinCSCompilation](./Evaluation_Evidence/KaseiCoinCrowdsaleCompilation.jpg)
 
-![KaseiCoinCSCompilation](./Evaluation_Evidence/KaseiCoinCrowdsaleDepolymentCompilation.jpg)
+![KaseiCoinCSDCompilation](./Evaluation_Evidence/KaseiCoinCrowdsaleDepolyerCompilation.jpg)
